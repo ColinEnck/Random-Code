@@ -1,5 +1,4 @@
 // NOTE: second argument must be a number
-// ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 #include <iostream>
 #include <string>
